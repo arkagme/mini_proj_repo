@@ -1,0 +1,24 @@
+mean reconstruction errors: 0.05
+anamoly detection rate: 0.5%
+inference time: 10 sec
+accuracy: not reported but expected to be 99%
+AUC-ROC :97%
+precision:0.8
+recall:0.8
+
+
+
+OUR METRICS:
+Performance Metrics:
+Mean Reconstruction Error (MSE): 0.014252
+Std of Reconstruction Errors: 0.118690
+Anomaly Threshold: 0.310978
+Anomaly Rate: 0.53%
+Inference Time: 11.19 seconds
+Model Size: 1.22 MB
+Accuracy: 0.994
+Precision: 0.048
+Recall: 0.200
+F1-Score: 0.077
+AUC-ROC: 0.804
+AUC-PR: 0.203
